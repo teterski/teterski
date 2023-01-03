@@ -29,6 +29,8 @@ Publishing **numi**, a general purpose Discord bot.
 
 
 ### 👨‍💻 Projects 🗂️
+<ins>All of my projects are on **Gitlab**, *not* Github.</ins>
+
 **numi**  
 A general purpose Discord bot (*which is in the process of being published*).
 
