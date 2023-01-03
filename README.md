@@ -11,8 +11,7 @@ Publishing **numi**, a general purpose Discord bot.
 
 
 ### 🧰 Tools ⚒️
-<img title="Golang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" height=80/>
-<img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height=80/>
+<img title="Golang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" height=80/> <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height=80/>
 <img title="C Sharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height=80/>
 <img title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" height=80/>
 <img title="SQLite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" height=80/>
