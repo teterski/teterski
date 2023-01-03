@@ -1,8 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 ## Nikolai Teterski
-<a href="https://www.linkedin.com/in/nikolai-teterski-a7457015b/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&&logoColor=white&style=flat" alt="LinkedIn Badge"/></a> <a href="https://gitlab.com/teterski"><img src="https://img.shields.io/badge/-Gitlab-orange?logo=gitlab&&logoColor=white&style=flat" alt="Gitlab Badge"/></a> <!-- <a href="https://teter.ski"><img src="https://img.shields.io/badge/Website-teter.ski-inactive?&style=flat" alt="Website Badge"/></a> --> <a href="mailto: nik@teter.ski"><img src="https://img.shields.io/badge/Email-nik@teter.ski-brightgreen?&logoColor=white&style=flat" alt="Email Badge"/></a>
-*Bachelor of Computing Science from the University of Alberta.*
+<a href="https://www.linkedin.com/in/nikolai-teterski-a7457015b/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&&logoColor=white&style=flat" alt="LinkedIn Badge"/></a> <a href="https://gitlab.com/teterski"><img src="https://img.shields.io/badge/-Gitlab-orange?logo=gitlab&&logoColor=white&style=flat" alt="Gitlab Badge"/></a> <!-- <a href="https://teter.ski"><img src="https://img.shields.io/badge/Website-teter.ski-inactive?&style=flat" alt="Website Badge"/></a> --> <a href="mailto: nik@teter.ski"><img src="https://img.shields.io/badge/📧-nik@teter.ski-lightgrey?&style=flat" alt="Email Badge"/></a> <img src="https://img.shields.io/badge/🎓-Bachelor%20of%20Computing%20Science -- University%20Of%20Alberta-success?&style=flat" alt="Education Badge"/>
 
 👋 I am a Golang developer currently working on a new Discord bot and a new database management system solution in Golang.
 
