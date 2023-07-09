@@ -27,17 +27,12 @@ Publishing **numi**, a general purpose Discord bot.
 <img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" height=60/>
 
 
-### 👨‍💻 Projects 🗂️
-<ins>All of my projects are on **Gitlab**, *not* Github.</ins>
-
+### 🗂️ Projects
 **numi**  
 A general purpose Discord bot (*which is in the process of being published*).
 
 **[goDBot](https://gitlab.com/teterski-softworks/godbot)**  
-A Discord bot framework. I have used this framework to build 3 different Discord bots for clients.
-
-**[goodb](https://gitlab.com/teterski-softworks/goodb)**  
-A database management system written in Go.
+A Discord bot framework. I have used this framework to build Discord bots for clients and their communities.
 
 **[gopnik](https://gitlab.com/teterski-softworks/gopnik)**  
 A web framework for back-end and front-end development.
@@ -47,4 +42,4 @@ A web framework for back-end and front-end development.
 At some point in the future, once I am finished with my current projects, I would like to get working on these:
 - A cross platform GUI library.
 - A boot loader written in Go.
-- A documentation management system.
+- A rudimentary DBMS.
